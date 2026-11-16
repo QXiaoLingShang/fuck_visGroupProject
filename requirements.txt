@@ -1,0 +1,9 @@
+# 数据与图表脚本的运行依赖（Python 3.11 验证）
+matplotlib>=3.8
+networkx>=3.2
+numpy>=1.26
+openpyxl>=3.1
+pandas>=2.0
+python-docx>=1.1
+scikit-learn>=1.4
+scipy>=1.11

@@ -1,0 +1,10 @@
+﻿,value
+top10,J44 J38 J50 J03 J01 J19 J05 J02 J08 J21
+n_freq_ge_0.8,4
+min_freq_in_top10,0.438
+spearman_naive,0.5473303167420814
+top10_overlap_naive,6
+naive_top10_median_n,10597.0
+score_top10_median_n,8324.5
+naive_top10_median_premium,0.11793235521611665
+score_top10_median_premium,0.2357990560941092

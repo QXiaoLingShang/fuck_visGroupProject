@@ -1,0 +1,5 @@
+﻿文件名,字节数,大小MB,大小KB,是否有效文件,用途
+JobWanted.xlsx,22147484,21.121,21628.4,True,招聘数据主文件
+JobWanted_description.docx,19847,0.019,19.4,True,官方数据说明（字段含义）
+QA.docx,153,0.0,0.1,False,问答文档
+second_answerSheet.docx,19343,0.018,18.9,True,答卷模板（5 个问题）

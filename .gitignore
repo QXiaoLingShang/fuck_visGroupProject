@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 个人信息（真实姓名/学号等）：只存在本机，模板见 .env.example
+.env
+.env.*
+!.env.example
+
+# 生成产物（Word 文档文件名含姓名学号，一律不入库）
+build/
+/*.docx
+/*.pdf
+
+# 可重建的缓存（脚本重跑即生成，体积大，不入版本控制）
+data/cache/
+
+# Office 临时锁文件
+~$*
+*.tmp
+
+# 工具本地状态
+.pi/
+.claude/settings.local.json
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
